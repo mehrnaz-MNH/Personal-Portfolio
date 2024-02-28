@@ -1,0 +1,12 @@
+:root {
+  /*colours*/
+  --color-text: #fff;
+  --color-primary: #7851a9;
+  --color-secondary: #552583;
+  --color-dark: #32174d;
+  --color-bg: #301934;
+  /*fonts*/
+  --font-roboto: "Roboto";
+}
+
+/* Defined properties for font and colors in one place for the entire project as variables */
