@@ -31,6 +31,10 @@
   color: var(--color-text);
   text-decoration: none;
 }
+
+.menuBtn {
+  display: none;
+}
 /* How the website should look like on smaller screens?*/
 @media screen and (max-width: 830px) {
   .navbar {
