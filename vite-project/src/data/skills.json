@@ -1,0 +1,38 @@
+[
+    {
+        "name": "HTML",
+        "img": "skills/html.png"
+    },
+    {
+        "name": "CSS",
+        "img": "skills/css.png"
+    },
+    {
+        "name": "React",
+        "img": "skills/react.png"
+    },
+    {
+        "name": "node",
+        "img": "skills/node.png"
+    },
+    {
+        "name": "JavaScript",
+        "img": "skills/js.png"
+    },
+    {
+        "name": "Python",
+        "img": "skills/python.png"
+    },
+    {
+        "name": "MySQL",
+        "img": "skills/database.png"
+    },
+    {
+        "name": "C#",
+        "img": "skills/c-sharp.png"
+    },
+    {
+        "name": "SAP",
+        "img": "skills/sap.png"
+    }
+]

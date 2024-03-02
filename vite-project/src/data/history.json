@@ -1,0 +1,31 @@
+[
+    {
+        "role": "Software Developer",
+        "organisation": "QUT MotorSport",
+        "startDate": "Jan, 2022",
+        "endDate": "Present",
+        "experiences": [
+            "Worked on Telematry Web App",
+            "Designed an Influx Database for Backend"
+        ]
+    },
+    {
+        "role": "Data Analysis and Systems Administration",
+        "organisation": "Micah Projects",
+        "startDate": "Sept, 2023",
+        "endDate": "Present",
+        "experiences": [
+            "Working with SAP bussiness Object",
+            "Developed  solutions to enhance the efficiency of existing reports"
+        ]
+    },
+    {
+        "role": "Business Development Officer",
+        "organisation": "Ronan Analytics",
+        "startDate": "Sept , 2023",
+        "endDate": "Dec , 2023",
+        "experiences": [
+            "Build a new Wesite for the company using Webflow"
+        ]
+    }
+]
