@@ -52,6 +52,14 @@
     gap: 23px;
   }
 
+  .text h2 {
+    align-items: center;
+  }
+
+  .text p {
+    align-items: center;
+  }
+
   .text {
     display: flex;
     flex-direction: column;
@@ -59,6 +67,18 @@
   }
 
   .links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  img {
+    display: flex;
+    flex-direction: column;
     align-items: center;
   }
 }
